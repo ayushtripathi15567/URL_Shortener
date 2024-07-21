@@ -17,6 +17,5 @@ It is majorly used to shorten the long links of the google drive.
 #### To get the shortened url I have used the **squizee api** which is linked to my website using javascript
 
 ### Website Screenshot
-<img width="100%" align="centre" src="[https://github.com/ayushtripathi15567/URL_Shortener/edit/new-branch/images/Screenshot 2024-07-21 195950.png](https://github.com/ayushtripathi15567/URL_Shortener/blob/new-branch/images/Screenshot%202024-07-21%20195950.png)"/>
 
-<img width="100%" align="centre src="https://github.com/ayushtripathi15567/URL_Shortener/blob/new-branch/images/Screenshot%202024-07-21%20195950.png" />
+![image](https://github.com/user-attachments/assets/cb0f42ed-b4ef-4476-bcd3-bf074ae627b4)
