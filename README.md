@@ -18,3 +18,5 @@ It is majorly used to shorten the long links of the google drive.
 
 ### Website Screenshot
 <img width="100%" align="centre" src="[https://github.com/ayushtripathi15567/URL_Shortener/edit/new-branch/images/Screenshot 2024-07-21 195950.png](https://github.com/ayushtripathi15567/URL_Shortener/blob/new-branch/images/Screenshot%202024-07-21%20195950.png)"/>
+
+<img width="100%" align="centre src="https://github.com/ayushtripathi15567/URL_Shortener/blob/new-branch/images/Screenshot%202024-07-21%20195950.png" />
