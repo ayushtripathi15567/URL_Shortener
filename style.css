@@ -1,0 +1,124 @@
+*{
+    margin: 0px 0px;
+    padding: 0px 0px;
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+}
+.container{
+    height: 500px;
+    width: 500px;
+    border: 2px white solid;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,10%);
+    /* border-radius: 30px; */
+    box-shadow: 20px;
+    background-color: rgb(255, 255, 255);}
+    
+    .container .group p{
+        position: relative;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 25px;
+        color:rgb(127, 127, 127);
+        height: 30px;
+        width: auto;
+        padding: 15px 70px;
+    }
+    h1{
+        position: relative;
+        top: 25px;
+        
+        height: 75px;
+        width:auto;
+        padding: 10px 50px;
+        font-size: 4rem;
+        color: rgb(59, 110, 220);
+    }
+    .group{
+    height:300px;
+    width: 500px;
+    position: relative;
+    top: 100px;
+    left: 0px;
+
+    border: 1px black solid;
+
+}
+
+.form-group{
+    position: relative;
+    height: 70px;
+    width: 500px;
+}
+
+.a {
+  font-family: "Edu AU VIC WA NT Hand", cursive;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+
+}
+
+label{
+    position: relative;
+    padding-bottom: 10px;
+    padding-left: 5px;
+}
+input#originalUrl{
+    
+    position: relative;
+    top: 30px;
+    left: -105px;
+    height: 30px;
+    width: 250px;
+    color:rgb(0, 0, 0);
+    padding-left: 10px;
+}
+input#suffix{
+    /* background-color: rgb(255, 255, 255); */
+    position: relative;
+    top: 30px;
+    left: -185px;
+    height: 30px;
+    width: 250px;
+    /* border-radius: 5px; */
+    color: rgb(0, 0, 0);
+    padding-left: 10px;
+}
+input {
+    background-color: white; /* Default background color */
+    transition: background-color 0.3s; /* Smooth transition */
+}
+
+input:hover {
+    background-color:rgba(59, 110, 220, 0.518); /* Background color on hover */
+}
+
+
+.form-group button{
+    position: relative;
+    top: 10px;
+    left: 5px;
+    height: 30px;
+    width: auto;
+    padding: 5px;
+    padding-bottom: 15px;
+    background-color: rgb(59, 110, 220);
+    color: white;
+    font-size: larger;
+}
+button:hover{
+    background-color: rgba(59, 110, 220, 0.694) ;
+}
+.result {
+    
+    font-size: 20px;
+    padding: 5px;
+}
+
+
+
+
